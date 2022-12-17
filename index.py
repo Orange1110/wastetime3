@@ -20,7 +20,7 @@ def index():
     return homepage
 
 @app.route("/random item",methods=["GET", "POST"])
-def random item():
+def item():
 
     result =""
 
